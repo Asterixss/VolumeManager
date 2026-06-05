@@ -93,7 +93,7 @@ All application names, logos, icons, and trademarks belong to their respective o
 
 This project is licensed under the VolumeManager EULA.
 
-See the LICENSE file for full details.
+See the [LICENSE](EULA.txt) file for full details.
 
 ## Contributing
 
