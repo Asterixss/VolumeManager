@@ -36,7 +36,7 @@ After launching, VolumeManager automatically minimizes to the Windows system tra
 * ~9,9MB RAM
 
 **DISK**
-* Needs ~50mb when installing through Setup
+* Needs ~50MB when installing through Setup
 
 ## System Volume
 
