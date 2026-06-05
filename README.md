@@ -25,7 +25,14 @@ VolumeManager is a lightweight Windows audio control utility built with C++ and 
 
 After launching, VolumeManager automatically minimizes to the Windows system tray and continues running in the background.
 
-## Usage
+## Lightweight
+
+**IDLE**
+* Using 0% CPU
+* Using ~13,3MB RAM
+**OPEN**
+* Using 0,2-0,4% CPU
+* ~9,9MB RAM
 
 ### System Volume
 
@@ -68,10 +75,8 @@ From there you can:
 ```text
 VolumeManager/
 ├── src/
-├── include/
 ├── resources/
-├── installer/
-└── README.md
+└── Build-Files
 ```
 
 ## Credits & Assets
