@@ -93,7 +93,7 @@ The Software may not be used in a manner intended to:
 
 The Software is licensed, not sold.
 
-Ownership of the original Software, including all copyrights and intellectual property rights, remains with **yummyzzzz**.
+Ownership of the original VolumeManager source code, original program logic, documentation, installer, and project materials remains with **yummyzzzz**, except for any third-party assets, trademarks, logos, icons, or materials that may be owned by their respective owners.
 
 This EULA does not transfer ownership of the Software to any user.
 
@@ -108,6 +108,28 @@ Use of the Software does not grant permission to:
 * Imply sponsorship or approval by the Author
 
 Any fork or modified release must clearly distinguish itself from official versions.
+
+---
+
+# 6A. Third-Party Icons, Assets, and Trademarks
+
+The Software may include or display certain third-party icons, visual assets, names, trademarks, logos, or other materials that are not owned by the Author.
+
+The volume/speaker icon used by VolumeManager is not owned by the Author. Any copyrights, trademarks, trade dress, or other intellectual property rights associated with such icon, or any similar icon from which it may be inspired, remain the property of their respective owners.
+
+The Author makes no claim of ownership over any third-party icon, trademark, logo, or asset included, referenced, or displayed within the Software.
+
+The use of any third-party asset within the Software does not imply:
+
+* Ownership by the Author.
+* Endorsement by the respective owner.
+* Sponsorship by the respective owner.
+* Affiliation with the respective owner.
+
+All trademarks, service marks, company names, product names, and logos referenced by the Software, screenshots, documentation, website, repository, or promotional materials remain the property of their respective owners.
+
+Users who redistribute, modify, or create derivative works of the Software are responsible for ensuring their own compliance with applicable copyright, trademark, and intellectual property laws.
+
 
 ---
 
