@@ -2,8 +2,6 @@
 
 VolumeManager is a lightweight Windows audio control utility built with C++ and Qt. It provides quick access to your system volume and allows you to control the volume of individual applications from a simple interface.
 
-![VolumeManager Screenshot](docs/screenshot.png)
-
 ## Features
 
 * System-wide volume control
@@ -60,7 +58,7 @@ From there you can:
 
 * Windows 10 or newer
 * Audio device configured in Windows
-* Administrator privileges may be required for certain audio operations / when installing the Software using the Installer
+* Administrator privileges may be required for certain audio operations or when installing the software using the installer
 
 ## Project Structure
 
@@ -72,6 +70,22 @@ VolumeManager/
 ├── installer/
 └── README.md
 ```
+
+## Credits & Assets
+
+### Application Icon
+
+The volume/speaker icon used by VolumeManager is not owned by the author.
+
+The icon is intended to resemble the familiar Windows audio icon for usability and recognition purposes. Any trademarks, copyrighted designs, or intellectual property associated with the original Windows audio icon remain the property of their respective owners.
+
+VolumeManager is an independent project and is not affiliated with, endorsed by, or sponsored by Microsoft.
+
+### Screenshot Notice
+
+Applications shown in screenshots (such as Steam, Discord, Chrome, CrosshairX, and others) are examples of active audio sessions detected on the author's system and are not included with VolumeManager.
+
+All application names, logos, icons, and trademarks belong to their respective owners.
 
 ## License
 
@@ -89,8 +103,8 @@ If you publish a fork or modified version, please clearly reference the official
 
 This software is provided "AS IS" without warranty of any kind.
 
-The author is not responsible for any damages, data loss, hardware issues, software issues, or other consequences resulting from the use or misuse of this software.
+The author is not responsible for any damages, data loss, hardware issues, software issues, legal issues, or other consequences resulting from the use or misuse of this software.
 
 ## Author
 
-GitHub: yummyzzzz
+GitHub: **yummyzzzz_**
