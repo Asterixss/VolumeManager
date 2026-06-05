@@ -30,6 +30,7 @@ After launching, VolumeManager automatically minimizes to the Windows system tra
 **IDLE**
 * Using 0% CPU
 * Using ~13,3MB RAM
+  
 **OPEN**
 * Using 0,2-0,4% CPU
 * ~9,9MB RAM
