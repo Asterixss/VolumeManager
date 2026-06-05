@@ -60,7 +60,7 @@ From there you can:
 
 * Windows 10 or newer
 * Audio device configured in Windows
-* Administrator privileges may be required for certain audio operations
+* Administrator privileges may be required for certain audio operations / when installing the Software using the Installer
 
 ## Project Structure
 
