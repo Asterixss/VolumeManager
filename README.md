@@ -35,7 +35,7 @@ After launching, VolumeManager automatically minimizes to the Windows system tra
 * Using 0,2-0,4% CPU
 * ~9,9MB RAM
 
-### System Volume
+## System Volume
 
 The top slider controls the master system volume of Windows.
 
