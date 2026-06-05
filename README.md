@@ -2,7 +2,7 @@
 
 VolumeManager is a lightweight Windows audio control utility built with C++ and Qt. It provides quick access to your system volume and allows you to control the volume of individual applications from a simple interface.
 
-[screenshot](docs/screenshot.png)
+(docs/screenshot.png)
 
 ## Features
 
