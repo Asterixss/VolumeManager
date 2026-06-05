@@ -109,4 +109,4 @@ The author is not responsible for any damages, data loss, hardware issues, softw
 
 ## Author
 
-GitHub: **yummyzzzz_**
+GitHub: **[yummyzzzz](https://github.com/Asterixss)**
