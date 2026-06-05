@@ -91,15 +91,15 @@ All application names, logos, icons, and trademarks belong to their respective o
 
 ## License
 
-This project is licensed under the VolumeManager EULA.
+This project is licensed under the VolumeManager [EULA](EULA).
 
-See the [LICENSE](EULA.txt) file for full details.
+See the [LICENSE](EULA) file for full details.
 
 ## Contributing
 
 Contributions, improvements, bug reports, and suggestions are welcome.
 
-If you publish a fork or modified version, please clearly reference the official VolumeManager repository as required by the license.
+If you publish a fork or modified version, please clearly reference the official VolumeManager repository as required by the [LICENSE](EULA).
 
 ## Disclaimer
 
